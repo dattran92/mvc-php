@@ -1,8 +1,8 @@
 <?php
 DEFINE('DB_HOST', 'localhost');
 DEFINE('DB_USERNAME', 'root');
-DEFINE('DB_NAME', 'stack_overflow');
+DEFINE('DB_NAME', 'php_mvc');
 DEFINE('DB_PASSWORD', '');
 DEFINE('APP_FB_ID', '');
-DEFINE('WEBSITE_URL', '//localhost/mvc-php/stack-overflow');
+DEFINE('WEBSITE_URL', 'http://localhost/php-mvc');
 ?>
